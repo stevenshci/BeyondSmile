@@ -10,7 +10,7 @@ This challenge is part of the **[7th International Conference on Activity and Be
 
 The dataset used for this challenge was collected as part of the FacePsy study. It contains facial behavior and head gesture data aimed at detecting depressive episodes. The dataset is available for download:
 
-**[Download Dataset](https://github.com/stevenshci/BeyondSmile/releases/download/dataset.v1/dataset.zip)**
+**[Download Dataset](https://github.com/stevenshci/BeyondSmile/releases/download/ABC2024/dataset.zip)**
 
 ### Dataset Structure
 ```
